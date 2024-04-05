@@ -40,7 +40,7 @@ A partir deste ponto presume-se que:
         Assim mostrando o popup indicando quantas autorizações foram arquivadas.
 - 5° Ao fim do arquivamento, o usuário deve clicar no botão do popup aberto, para encerrar definitivamente o programa.
 
-OBS: Com a conclusão bem sucedida do software, o mesmo cria um arquivo de logs na área de trabalho, chamado 'arquivamento',
+OBS: Com a conclusão bem sucedida da execução do software, o mesmo cria um arquivo de logs na área de trabalho, chamado 'arquivamento',
 sendo que neste arquivo estará contido informações sobre cada execução, separados por data e hora.
 
 # Dependências do Software
