@@ -26,7 +26,8 @@ A partir deste ponto presume-se que:
   anteriormente criada (No própio EDOC), sendo que é através do prazo de conclusão desta tarefa (O mesmo prazo de validade da autorização),
   que o software consegue analisar se ainda esta vigente ou não.
 
-- A utilização do software em si, de certa forma é simples, sendo constituído por:
+## A utilização do software:
+
 - 1° Executar a automação.
 - 2° Aguardar o Google Chrome abrir e se redirecionar para a página de login do EDOC.
 - 3° Neste momento o usuário tem exatos 2 minutos para inserir o usuário e senha, e clicar no botão "Entrar".
