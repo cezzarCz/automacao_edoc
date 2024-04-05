@@ -15,4 +15,20 @@
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+# Dependências do Software
 
+Dependências necessárias para o funcionamento correto da automação.
+Preferencialmente este software deve ser executado com a conexão da intranet da Câmara dos Deputados - Brasília - DF.
+
+## Ambiente de Execução
+
+- **Python**: O software foi desenvolvido e testado utilizando a versão `3.11.9` do Python.
+- [https://www.python.org/downloads/](https://www.python.org/downloads/)
+
+## Bibliotecas e Pacotes
+
+- **Selenium**: Versão `4.12.0`. O Selenium é uma ferramenta poderosa para automação de navegadores web:
+
+  ```bash
+  pip install selenium==4.12.0
+  ```
